@@ -45,6 +45,7 @@ OpenResourceSystem/Plugins/OpenResourceSystem_1_0_0.dll
 OpenResourceSystem/Plugins/OpenResourceSystem_1_1_0.dll
 TreeLoader/TreeLoader.dll
 TriggerTech/KerbalAlarmClock.dll
+blizzy/Achievements/Achievements.dll
 
 
 !resource-whitelist
@@ -76,6 +77,7 @@ TreeLoader/TreeLoader.dll
 TriggerTech/KerbalAlarmClock.dll
 WarpPlugin/Plugins/InterstellarToolbar.dll
 WarpPlugin/Plugins/WarpPlugin.dll
+blizzy/Achievements/Achievements.dll
 
 
 !partslist
