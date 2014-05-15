@@ -32,12 +32,14 @@ WarpPlugin/Plugins/WarpPlugin.dll
 #Formatting for this section is the same as the 'required-files' section
 
 ActiveTextureManagement/Plugins/ActiveTextureManagement.dll
+Chatterer/Plugins/Chatterer.dll
 DistantObject/DistantObject.dll
 EnvironmentalVisualEnhancements/Plugins/CityLights.dll
 EnvironmentalVisualEnhancements/Plugins/Clouds.dll
 EnvironmentalVisualEnhancements/Plugins/Geometry.dll
 EnvironmentalVisualEnhancements/Plugins/OverlayMgr.dll
 EnvironmentalVisualEnhancements/Plugins/Terrain.dll
+NavyFish/Plugins/DockingPortAlignment.dll
 OpenResourceSystem/Plugins/OpenResourceSystem.dll
 OpenResourceSystem/Plugins/OpenResourceSystem_1_0_0.dll
 OpenResourceSystem/Plugins/OpenResourceSystem_1_1_0.dll
@@ -56,6 +58,7 @@ TriggerTech/KerbalAlarmClock.dll
 
 ModuleManager_1_5_6.dll
 ActiveTextureManagement/Plugins/ActiveTextureManagement.dll
+Chatterer/Plugins/Chatterer.dll
 DistantObject/DistantObject.dll
 Engineer/Engineer.dll
 Engineer/EngineerToolbar.dll
@@ -64,6 +67,7 @@ EnvironmentalVisualEnhancements/Plugins/Clouds.dll
 EnvironmentalVisualEnhancements/Plugins/Geometry.dll
 EnvironmentalVisualEnhancements/Plugins/OverlayMgr.dll
 EnvironmentalVisualEnhancements/Plugins/Terrain.dll
+NavyFish/Plugins/DockingPortAlignment.dll
 OpenResourceSystem/Plugins/OpenResourceSystem.dll
 OpenResourceSystem/Plugins/OpenResourceSystem_1_0_0.dll
 OpenResourceSystem/Plugins/OpenResourceSystem_1_1_0.dll
