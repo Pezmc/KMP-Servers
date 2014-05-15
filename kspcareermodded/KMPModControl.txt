@@ -23,6 +23,9 @@
 
 Engineer/Engineer.dll
 Engineer/EngineerToolbar.dll
+RemoteTech2/Plugins/RemoteTech2.dll
+WarpPlugin/Plugins/InterstellarToolbar.dll
+WarpPlugin/Plugins/WarpPlugin.dll
 
 
 !optional-files
@@ -35,6 +38,10 @@ EnvironmentalVisualEnhancements/Plugins/Clouds.dll
 EnvironmentalVisualEnhancements/Plugins/Geometry.dll
 EnvironmentalVisualEnhancements/Plugins/OverlayMgr.dll
 EnvironmentalVisualEnhancements/Plugins/Terrain.dll
+OpenResourceSystem/Plugins/OpenResourceSystem.dll
+OpenResourceSystem/Plugins/OpenResourceSystem_1_0_0.dll
+OpenResourceSystem/Plugins/OpenResourceSystem_1_1_0.dll
+TreeLoader/TreeLoader.dll
 TriggerTech/KerbalAlarmClock.dll
 
 
@@ -47,6 +54,7 @@ TriggerTech/KerbalAlarmClock.dll
 #[File Path]
 #Example: MechJeb2/Plugins/MechJeb2.dll
 
+ModuleManager_1_5_6.dll
 ActiveTextureManagement/Plugins/ActiveTextureManagement.dll
 DistantObject/DistantObject.dll
 Engineer/Engineer.dll
@@ -56,7 +64,14 @@ EnvironmentalVisualEnhancements/Plugins/Clouds.dll
 EnvironmentalVisualEnhancements/Plugins/Geometry.dll
 EnvironmentalVisualEnhancements/Plugins/OverlayMgr.dll
 EnvironmentalVisualEnhancements/Plugins/Terrain.dll
+OpenResourceSystem/Plugins/OpenResourceSystem.dll
+OpenResourceSystem/Plugins/OpenResourceSystem_1_0_0.dll
+OpenResourceSystem/Plugins/OpenResourceSystem_1_1_0.dll
+RemoteTech2/Plugins/RemoteTech2.dll
+TreeLoader/TreeLoader.dll
 TriggerTech/KerbalAlarmClock.dll
+WarpPlugin/Plugins/InterstellarToolbar.dll
+WarpPlugin/Plugins/WarpPlugin.dll
 
 
 !partslist
@@ -255,3 +270,101 @@ Size3to2Adapter
 Engineer7500
 EngineerChip
 EngineerChipFlight
+RTGigaDish1
+RTGigaDish2
+RTLongAntenna2
+RTLongAntenna3
+RTLongDish1
+RTLongDish2
+RTShortAntenna1
+RTShortDish1
+RTShortDish2
+computerCore
+scienceModule
+AntimatterCollector
+AntimatterReactor125
+AntimatterReactor250
+AntimatterReactor375
+Brayton2
+Brayton3
+Brayton1
+tinyBrayton
+FNFissionFusionCatReactor
+radiator0
+radiator1
+radiator2
+LargeFlatRadiator
+FusionReactor250
+FusionReactor375
+NuclearReactor375
+NuclearReactor250
+NuclearReactor0625
+NuclearReactor125
+FNPFissionReactor0625
+FNPFissionReactor125
+FNPFissionReactor250
+FNPFissionReactor375
+RadialRadiatorzzz
+RadialRadiatorzzz2
+FusionReactor0625
+FusionReactor125
+WarpDrive
+WarpDrive2
+WarpDrive3
+circradiatorKT
+circradiatorKT2
+circradiatorKT3
+AluminiumHybrid1
+FNSmallerAugmentedArcjet
+FNSmallAugmentedArcjet
+smallerMPD
+smallMPD
+MPD
+FNMethaneEngine
+smallerThermalRocketNozzle
+smallThermalRocketNozzle
+ThermalRocketNozzle
+bigThermalRocketNozzle
+ThermalTurbojet
+ThermalTurbojet2
+SM-Solar-Sail
+vista
+AntimatterTank125
+AntimatterTank250
+AntimatterTank375
+BigXenonTank
+FNDeuteriumCryostat
+FNHeliumCryostat
+25PureLiquidTank
+375PureLiquidTank
+FNAmmoniaTank
+FNLiquidWaterTank
+FNAntimatterBottle
+HexCanDeutTritLarge
+HexCanHe3Large
+HexCanLithium
+HexCanThoriumFl4
+HexCanUraniumFl6
+HexCanUraniumN
+FNMethaneTank3-1
+FNMethaneTank3-2
+FNIRTelescope
+DTMagnetometer
+FNGCMS
+sensorGammaRaySpectrometer
+FNInlineRefinery
+FNLCMS
+FNInlineRefineryLarge
+microwaveThermalEnergyReceiverL
+microwaveThermalEnergyReceiverM
+microwaveThermalEnergyReceiverS
+FNRefinery
+atmosphericScoop
+atmosphericScoop2
+microwaveReceiver
+phasedArray1
+microwaveTransmitter
+radial.atmospheric.scoop1
+radial.atmospheric.scoop2
+warpAtmIntake
+warpAtmIntake2
